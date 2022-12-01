@@ -1,0 +1,23 @@
+.navbar__footer {
+    width: 100vw !important;
+    height: 30px;
+    background-color: #22303E;
+    color: white;
+    display: flex;
+}
+.menu_container {
+    margin-top: 20px;
+}
+.navbar__footer_text {
+    margin: 5px 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+* {
+  box-sizing: border-box;
+}
+
+#page-wrap {
+  padding-bottom: 10px;
+  padding-top: 10px;
+}
